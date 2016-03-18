@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 20px;
+    margin: 0px;
+    min-width: 680px;
+}
+
+.wrapper {
+    overflow: hidden;
+    padding: 20px;
+    border: 1px solid #999;
+    background-color: #eee;
+}
+
+.intro-mid {
+    padding: 20px;
+    margin-left: 240px;
+    margin-right: 160px;
+    border: 1px solid #999;
+    background-color: #fff;
+}
+
+.team-left {
+    float: left;
+    width: 160px;
+    padding: 20px;
+    border: 1px solid #999;
+    background-color: #fff;
+}
+.team-logo {
+    width: 80px;
+    height: 80px;
+    float: left;
+}
+
+.team-left h2 {
+    float: left;
+    padding-left: 5px;
+    font-size: 14px;
+}
+
+.stuff-right {
+    float: right;
+    width: 80px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #999;
+}
+
+.stuff-logo {
+    width: 80px;
+    height: 80px;
+    margin: 10px 0px;
+    border: 1px solid #999;
+}
